@@ -1,0 +1,5 @@
+django==1.9
+djangorestframework
+markdown
+django-filter  # Filtering support
+drfdocs
